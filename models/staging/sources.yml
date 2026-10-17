@@ -1,3 +1,4 @@
+
 version: 2
 
 sources:
@@ -8,5 +9,12 @@ sources:
     tables:
       - name: sales_raw
         description: "Ventas crudas."
+
       - name: products_raw
         description: "Productos crudos."
+
+      - name: customers_raw
+        description: "Clientes crudos."
+
+      - name: stores_raw
+        description: "Tiendas crudas."
